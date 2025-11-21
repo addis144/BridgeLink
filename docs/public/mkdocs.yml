@@ -10,6 +10,7 @@ nav:
   - Home: index.md
   - Dynamic Lookup Gateway: DLG.md
   - HL7 Spec Guide: HL7-Spec.md
+  - DICOM Identifier Transformer: DICOM-Patient-Identifier-Transformer.md
 markdown_extensions:
   - toc
   - tables
